@@ -7,3 +7,5 @@ I build this repository for easier code submission.
 - For others, this repository provides an overview of the main content and workload for this course. Personally, Dr. Kevin Tang is an exceptional lecturer, and I've gained a lot from this class. I hope this can assist you in understanding the subject and even help you decide whether to take this course.
 
 If you have any questions or issues, please give an issue on GitHub or feel free to contact me (Yiyuan Lin) via email [yl3663@cornell.edu](yl3663@cornell.edu)
+
+Happy to share that I got A+ in this course😄
